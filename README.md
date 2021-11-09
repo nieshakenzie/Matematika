@@ -22,11 +22,11 @@ Fitur
 
 | Bangun Ruang |
 --------------
-- Balok
-- Kubus
-- Tabung
-- Kerucut
-- Limas Segitiga
-- Limas Segiempat
-- Bola
-- Prisma
+- Balok ✔️
+- Kubus ✔️
+- Tabung ✔️
+- Kerucut ✔️
+- Limas Segitiga (Ongoing) 👨‍💻
+- Limas Segiempat (Ongoing) 👨‍💻
+- Bola (Ongoing) 👨‍💻
+- Prisma (Ongoing) 👨‍💻
