@@ -19,8 +19,8 @@ Fitur
 - Frekuensi
 
 **UPCOMING**
-
-|Bangun Ruang|
+--------------
+| Bangun Ruang |
 - Balok
 - Kubus
 - Tabung
