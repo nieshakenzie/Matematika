@@ -4,10 +4,12 @@ Fitur
 - Bangun Ruang
 - Statistika
 
-Bangun Ruang
+| Bangun Ruang |
+----------------
 - Mencari Luas, Alas, Lebar, keliling dan lain lain
 
-Statistika
+| Statistika |
+--------------
 - Mengurutkan data kecil ke besar
 - Nilai terendah & Nilai Tertinggi
 - Rata-rata Mean
@@ -17,7 +19,8 @@ Statistika
 - Frekuensi
 
 **UPCOMING**
-Bangun Ruang
+
+|Bangun Ruang|
 - Balok
 - Kubus
 - Tabung
