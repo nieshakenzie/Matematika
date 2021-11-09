@@ -1,8 +1,9 @@
 # Feature
-- Bangun Ruang
+- Bangun Datar
 - Statistika
+- Bangun Ruang (Ongoing) 👨‍💻
 
-| Bangun Ruang |
+| Bangun Datar |
 ----------------
 - Mencari Luas, Alas, Lebar, keliling dan lain lain
 
