@@ -1,6 +1,4 @@
-# Math V1.0
-
-Fitur
+# Feature
 - Bangun Ruang
 - Statistika
 
@@ -30,3 +28,5 @@ Fitur
 - Limas Segiempat (Ongoing) 👨‍💻
 - Bola (Ongoing) 👨‍💻
 - Prisma (Ongoing) 👨‍💻
+
+Version 1.0
