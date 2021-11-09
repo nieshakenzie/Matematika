@@ -18,8 +18,7 @@ Fitur
 - Interval
 - Frekuensi
 
-**UPCOMING**
---------------
+# **UPCOMING**
 | Bangun Ruang |
 --------------
 - Balok
