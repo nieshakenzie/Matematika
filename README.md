@@ -14,3 +14,4 @@ Statistika
 - Range
 - Kelas Interval
 - Interval
+- Frekuensi
