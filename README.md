@@ -5,12 +5,12 @@ Fitur
 - Statistika
 
 Bangun Ruang
--> Mencari Luas, Alas, Lebar, keliling dan lain lain
+- Mencari Luas, Alas, Lebar, keliling dan lain lain
 
 Statistika
--> Mengurutkan data kecil ke besar
--> Nilai terendah & Nilai Tertinggi
--> Rata-rata Mean
--> Range
--> Kelas Interval
--> Interval
+- Mengurutkan data kecil ke besar
+- Nilai terendah & Nilai Tertinggi
+- Rata-rata Mean
+- Range
+- Kelas Interval
+- Interval
