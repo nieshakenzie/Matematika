@@ -15,3 +15,14 @@ Statistika
 - Kelas Interval
 - Interval
 - Frekuensi
+
+**UPCOMING**
+Bangun Ruang
+- Balok
+- Kubus
+- Tabung
+- Kerucut
+- Limas Segitiga
+- Limas Segiempat
+- Bola
+- Prisma
