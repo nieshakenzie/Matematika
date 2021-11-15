@@ -1,7 +1,7 @@
 # Feature ✨
 - Bangun Datar
+- Bangun Ruang
 - Statistika
-- Bangun Ruang (Ongoing) 👨‍💻
 
 | Bangun Datar |
 ----------------
@@ -25,9 +25,7 @@
 - Kubus ✔️
 - Tabung ✔️
 - Kerucut ✔️
-- Limas Segitiga (Ongoing) 👨‍💻
-- Limas Segiempat (Ongoing) 👨‍💻
-- Bola (Ongoing) 👨‍💻
-- Prisma (Ongoing) 👨‍💻
-
-*Version 1.0*
+- Limas Segitiga ✔️
+- Limas Segiempat ✔️
+- Bola ✔️
+- Prisma ✔️
