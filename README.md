@@ -7,6 +7,10 @@
 ----------------
 - Mencari Luas, Alas, Lebar, keliling dan lain lain
 
+| Bangun Ruang |
+--------------
+- Mencari Volume dan Luas Permukaan
+
 | Statistika |
 --------------
 - Mengurutkan data kecil ke besar
@@ -17,15 +21,6 @@
 - Interval
 - Frekuensi
 
-# **UPCOMING**
 
-| Bangun Ruang |
---------------
-- Balok ✔️
-- Kubus ✔️
-- Tabung ✔️
-- Kerucut ✔️
-- Limas Segitiga ✔️
-- Limas Segiempat ✔️
-- Bola ✔️
-- Prisma ✔️
+# **UPCOMING**
+**password generator** 👨‍💻
