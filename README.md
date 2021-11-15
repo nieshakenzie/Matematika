@@ -23,4 +23,4 @@
 
 
 # **UPCOMING**
-**password generator** (Ongoing) 👨‍💻
+**Password Generator** (Ongoing) 👨‍💻
